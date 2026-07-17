@@ -2,9 +2,6 @@
 Math 457 Final Project - predicting gun death intent with random forest classifiers 
 # Predicting Gun Death Intent with Random Forests
 
-**MATH 457 — Applied Statistical Methods**
-Binghamton University, Fall 2025
-
 Team: Matthew Reardon, Miguel Gonzalez, Ryan Smith
 
 ---
